@@ -1,27 +1,27 @@
-# f1-driver-cards
+# F1 Driver Cards
 
-Driver cards for the 2024 F1 season
+Driver cards for the 2024 F1 season.
 
-A five-part series for the motorsport blog: one card per driver, each covering the driver's career profile and their final result in the 2024 drivers' championship.
+## Drivers
 
-## The shortlist
+| Driver | Code | Permanent number | 2024 finishing position | 2024 points |
+| --- | --- | --- | --- | --- |
+| Lewis Hamilton | HAM | 44 | 7th | 223 |
+| Max Verstappen | VER | 3 | 1st | 437 |
+| Charles Leclerc | LEC | 16 | 3rd | 356 |
+| Lando Norris | NOR | 1 | 2nd | 374 |
+| Fernando Alonso | ALO | 14 | 9th | 70 |
 
-| Driver | Permanent number | 2024 finishing position |
-| --- | --- | --- |
-| Lewis Hamilton | 44 | 7th (223 points) |
-| Max Verstappen | 3 | 1st (437 points) |
-| Charles Leclerc | 16 | 3rd (356 points) |
-| Lando Norris | 1 | 2nd (374 points) |
-| Fernando Alonso | 14 | 9th (70 points) |
+## Constructors' Championship 2024
 
-## Cards
+McLaren won the 2024 Constructors' Championship with 666 points.
 
-- [Lewis Hamilton](hamilton.md)
-- [Max Verstappen](verstappen.md)
-- [Charles Leclerc](leclerc.md)
-- [Lando Norris](norris.md)
-- [Fernando Alonso](alonso.md)
+## Individual driver cards
 
-## 2024 constructors' champion
+Each driver's profile and 2024 championship results are published in their own file:
 
-McLaren (666 points)
+- [hamilton.md](hamilton.md) — Lewis Hamilton
+- [verstappen.md](verstappen.md) — Max Verstappen
+- [leclerc.md](leclerc.md) — Charles Leclerc
+- [norris.md](norris.md) — Lando Norris
+- [alonso.md](alonso.md) — Fernando Alonso

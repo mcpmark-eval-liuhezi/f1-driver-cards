@@ -1,8 +1,12 @@
-# Lewis Hamilton
+# Lewis Hamilton — Driver Card
 
-- **Full name:** Lewis Hamilton
-- **Race code:** HAM
-- **Permanent car number:** 44
-- **Date of birth:** 1985-01-07
-- **Nationality:** British
-- **2024 Drivers' Championship:** 7th position, 223 points
+- Full name: Lewis Hamilton
+- Code: HAM
+- Permanent number: 44
+- Date of birth: 1985-01-07
+- Nationality: British
+
+## 2024 Drivers' Championship
+
+- Final position: 7th
+- Points: 223

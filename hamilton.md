@@ -9,4 +9,4 @@
 ## 2024 Drivers' Championship
 
 - Final position: 7th
-- Points: 245
+- Points: 223

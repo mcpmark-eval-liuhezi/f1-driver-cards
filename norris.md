@@ -1,5 +1,3 @@
-# Lando Norris — Driver Card
-
 - Full name: Lando Norris
 - Code: NOR
 - Permanent number: 1

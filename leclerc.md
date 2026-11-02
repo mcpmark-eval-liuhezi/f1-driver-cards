@@ -1,5 +1,3 @@
-# Charles Leclerc — Driver Card
-
 - Full name: Charles Leclerc
 - Code: LEC
 - Permanent number: 16

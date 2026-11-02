@@ -1,5 +1,3 @@
-# Lewis Hamilton — Driver Card
-
 - Full name: Lewis Hamilton
 - Code: HAM
 - Permanent number: 44

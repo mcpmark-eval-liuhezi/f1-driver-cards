@@ -2,7 +2,7 @@
 
 - Full name: Max Verstappen
 - Code: VER
-- Permanent number: 33
+- Permanent number: 3
 - Date of birth: 1997-09-30
 - Nationality: Dutch
 

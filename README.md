@@ -6,7 +6,7 @@ Driver cards for the 2024 F1 season.
 
 | Driver | Permanent number | 2024 Drivers' Championship position (points) |
 | --- | --- | --- |
-| Lewis Hamilton | 44 | 7th (223 points) |
+| Lewis Hamilton | 44 | 7th (245 points) |
 | Max Verstappen | 3 | 1st (437 points) |
 | Charles Leclerc | 16 | 3rd (356 points) |
 | Lando Norris | 1 | 2nd (374 points) |
